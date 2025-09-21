@@ -79,36 +79,6 @@
 ![board_api](https://user-images.githubusercontent.com/45421117/200116338-fe21cd4c-892e-4f30-bf66-8f1f74547ba1.png)
 ![reply_api](https://user-images.githubusercontent.com/45421117/200116349-d5239ef3-3319-44f2-b917-d637dbf79f4f.png)
 ![admin_api](https://user-images.githubusercontent.com/45421117/200116356-0d6eed77-d5c2-45a8-8d93-417dbc03c844.png)
-<hr>
-
-### 5. 개발 내용
-1. [[스프링부트 게시판] 메인페이지 만들기](https://daegwonkim.tistory.com/249)
-2. [[스프링부트 게시판] 로그인, 회원가입 페이지 만들기](https://daegwonkim.tistory.com/250)
-3. [[스프링부트 게시판] 회원가입 기능 구현하기](https://daegwonkim.tistory.com/252)
-4. [[스프링부트 게시판] 로그인 기능 구현하기](https://daegwonkim.tistory.com/255)
-5. [[스프링부트 게시판] 스프링 시큐리티 체험해보기](https://daegwonkim.tistory.com/259)
-6. [[스프링부트 게시판] 비밀번호 해쉬 후 회원가입 및 로그인하기](https://daegwonkim.tistory.com/260)
-7. [[스프링부트 게시판] 게시글 작성, 삭제, 수정, 페이징](https://daegwonkim.tistory.com/263)
-8. [[스프링부트 게시판] 회원정보 수정](https://daegwonkim.tistory.com/266)
-9. [[스프링부트 게시판] 카카오 로그인](https://daegwonkim.tistory.com/268)
-10. [[스프링부트 게시판] 댓글 구현](https://daegwonkim.tistory.com/270)
-11. [[스프링부트 게시판] 중간점검 및 수정](https://daegwonkim.tistory.com/319)
-12. [[스프링부트 게시판] 로그인 실패 예외처리](https://daegwonkim.tistory.com/326)
-13. [[스프링부트 게시판] Remember Me 기능 구현](https://daegwonkim.tistory.com/329)
-14. [[스프링부트 게시판] 회원가입시 validation 체크](https://daegwonkim.tistory.com/332)
-15. [[스프링부트 게시판] 커스텀 validation을 통한 중복검사 구현](https://daegwonkim.tistory.com/335)
-16. [[스프링부트 게시판] 게시글 작성일 및 조회수 출력](https://daegwonkim.tistory.com/338)
-17. [[스프링부트 게시판] 게시글 검색 기능 구현](https://daegwonkim.tistory.com/361)
-18. [[스프링부트 게시판] 게시글 추천 기능 구현](https://daegwonkim.tistory.com/362)
-19. [[스프링부트 게시판] 게시글 정렬 기능 구현](https://daegwonkim.tistory.com/363)
-20. [[스프링부트 게시판] 이전글, 다음글 이동 기능 구현](https://daegwonkim.tistory.com/364)
-21. [[스프링부트 게시판] 이전에 봤던 글 표시](https://daegwonkim.tistory.com/365)
-22. [[스프링부트 게시판] 댓글 작성 알림 기능](https://daegwonkim.tistory.com/366)
-23. [[스프링부트 게시판] 사용자 프로필 이미지 추가](https://daegwonkim.tistory.com/367)
-24. [[스프링부트 게시판] JPA Specification을 통한 쿼리 조건 다루기](https://daegwonkim.tistory.com/368)
-25. [[스프링부트 게시판] 관리자 페이지 - 회원 관리 구현](https://daegwonkim.tistory.com/369)
-26. [[스프링부트 게시판] 관리자 페이지 - 게시글 통계 구현](https://daegwonkim.tistory.com/370)
-27. [[스프링부트 게시판] 이메일을 통한 임시 비밀번호 발급](https://daegwonkim.tistory.com/371)
 
 <hr>
 
